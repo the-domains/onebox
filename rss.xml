@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OneBox ]]></title>
+        <description><![CDATA[OneBox ]]></description>
+        <link>https://thegrid.ai/onebox/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Aug 2016 18:30:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/onebox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Beautiful Speedometer for Bikes]]></title>
+            <description><![CDATA[<article><h1>A Beautiful Speedometer for Bikes</h1><p>Shout-out to designers who are also obsessed with cycling because their work frequently results in something new and clever, like the arresting Omata One. Mounted onto a bike, the speedometer's unique analog face informs of the four most relevant ride metrics (speed, distance, ascent and time).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d105236023603a813c26d257fbe058ad72b3f663.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/omata-one-analog-gps-speedometer-cycling-kickstarter</link>
+            <guid isPermaLink="false">2bed4fdd-b487-4725-b466-004fd9df2c1e</guid>
+            <pubDate>Mon, 08 Aug 2016 18:30:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Design Indaba 2016: Interview With Jaime Hayon]]></title>
+            <description><![CDATA[<article><h1>Design Indaba 2016: Interview With Jaime Hayon</h1><p>It's four o'clock in the morning and Jaime Hayon is still going full speed, sitting on a couch in Cape Town, candidly telling us about the time he tattooed one of the world's top tattoo artists. Had he ever inked somebody before? Nope, and he never did again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48f86a6be147d551b27ad334ff404c5fb1ce9b36.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/design/interview-designer-jaime-haydon-design-indaba</link>
+            <guid isPermaLink="false">5832d58d-e465-4789-adae-b543874e450f</guid>
+            <pubDate>Mon, 08 Aug 2016 18:30:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travel Smarter: The Backpack That Doubles as a Mobile Office]]></title>
+            <description><![CDATA[<article><h1>Travel Smarter: The Backpack That Doubles as a Mobile Office</h1><p>Our pals at This is Ground recently launched a "smart" backpack that will make you feel like the coolest, most in-the-know traveler out there. Crossing town (or the globe) with a laptop, iPad, headphones, and WiFi port can weigh you down - but it's a reality for many, especially those who work from the road.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e22f9a492a4d7f602c89eee545449af90da0d5de.jpg"></article>]]></description>
+            <link>http://fathomaway.com/postcards/stuff/this-is-ground-venture-travel-office-backpack/</link>
+            <guid isPermaLink="false">0242e41b-e7fc-454f-8709-f6c42eaf07b0</guid>
+            <pubDate>Mon, 08 Aug 2016 18:30:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
