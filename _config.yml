@@ -1,0 +1,14 @@
+layout_spectrum: 0.7339543327689171
+typography_spectrum: 0.23595463088713586
+color:
+  brandStrength: 0.3201227285899222
+  lightness: 0.7227790777105838
+  saturation: 0.7811789251863956
+  rhythmicContrast: 0.7607718247454613
+  brandColors:
+    - '#FFFFFF'
+    - '#A7ABA9'
+    - '#DD4141'
+    - '#E4727E'
+    - '#EDA7B4'
+name: 'OneBox '
